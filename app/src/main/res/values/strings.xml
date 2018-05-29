@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="passwordlost"><![CDATA[<u>Lost Your Password?</u>]]></string>
+    <string name="login">Login</string>
+    <string name="usernamehint">Username</string>
+    <string name="passwordhint">Password</string>
+    <string name="signup">Dont have account?, </string>
+    <string name="signuplink"><![CDATA[<u>  SignUp Here</u>]]></string>
+</resources>
